@@ -1,3 +1,5 @@
+!!! THIS IS A BACKUP REPO FROM ORIGINAL Wikiki's bulma-carousel extension !!!
+
 # Introduction
 This components has been developped as a [Bulma](https://bulma.io) extension and brings **a full-featured user interface for managing tags** to your project.
 
